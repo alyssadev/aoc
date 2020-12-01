@@ -1,0 +1,18 @@
+[submodule "2015"]
+	path = 2015
+	url = git@github.com:alyssadev/aoc2015.git
+[submodule "2016"]
+	path = 2016
+	url = git@github.com:alyssadev/aoc2016.git
+[submodule "2017"]
+	path = 2017
+	url = git@github.com:alyssadev/aoc2017.git
+[submodule "2018"]
+	path = 2018
+	url = git@github.com:alyssadev/aoc2018.git
+[submodule "2019"]
+	path = 2019
+	url = git@github.com:alyssadev/aoc2019.git
+[submodule "2020"]
+	path = 2020
+	url = git@github.com:alyssadev/aoc2020.git
